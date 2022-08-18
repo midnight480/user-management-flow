@@ -3,7 +3,7 @@
 ## 処理フロー
 
 ```mermaid
-  grapgh TD;
+  GRAPH TD;
     GWS-->GAS;
     GAS-->SpreadSheet;
     SpreadSheet-->Lambda1;
